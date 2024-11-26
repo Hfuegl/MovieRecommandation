@@ -18,9 +18,9 @@ application of Deep Learning algorithms.
 We have split the notebooks into categories based on the type of tasks.
 
 ### Datamining and Visualisation
-| Notebook | Description  |
-| -------- |--------------|
-| [Analyse Movielens Data](MovieLenReports.ipynb)||
+| Notebook                                        | Description                      |
+|-------------------------------------------------|----------------------------------|
+| [Analyse MovieLens Data](MovieLenReports.ipynb) | Data analysis, Quality Reporting |
 
 ### Models
 
